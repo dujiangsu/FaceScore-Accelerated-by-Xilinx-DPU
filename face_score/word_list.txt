@@ -1,0 +1,10 @@
+0,Why not die
+10,Oh, My eyes
+20,Live Hard
+30,Feel Alive
+40,Below Average
+50,Common
+60,Great
+70,Beautiful
+80,Amazing
+90,Awesome
