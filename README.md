@@ -28,6 +28,6 @@ The face score module is trained and converted to DPU-usable version by ourselve
  
  ## Conclusion 
  
- Xilinx Summer School provides me a good experience on the end-to-end deployment of FPGA && Deep Learning and it is worth experiencing. The tool chain of deploying a CNN on FPGA is becoming ever mature. However, from my own perspective, the price, develop efficiency, and flexibility can still block the way for FPGA to general computing.
+ Xilinx Summer School provides me a good experience on the end-to-end deployment of FPGA && Deep Learning and it is worth experiencing. I'd like to thank all staffs and teachers, particularly Wei Liu and Jiahua Lu. The tool chain of deploying a CNN on FPGA is becoming ever mature. However, from my own perspective, the price, develop efficiency, and flexibility can still block the way for FPGA to general computing. Long way popular.
  
  This is a very brief introduction of our project, welcome to discuss for more info.
